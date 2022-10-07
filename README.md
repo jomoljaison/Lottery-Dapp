@@ -1,0 +1,2 @@
+# Lottery
+Ethereum lottery
